@@ -1,0 +1,81 @@
+****************** Plan
+
+1. Démarche / notion d'espace, de proxÃ©mie        - question notions entropologique
+2. La notion de contexte	   		Â  -
+3. La notion d'intéraction et d'habriter	   - Ã©tude de cas a presenter
+4. Cours magistral / +Présentation de cas a l'ora - 1h30 +3cas
+5. Cours magistral / +Présentation de cas a l'ora - 
+
+
+****************** SEANCE 1
+
+ESPACE (proxÃ©mie)
+CONTEXTE
+INTERACTION
+HABITER
+
+DÃ©finition de la robotique :
+Pas trÃ¨s biendÃ©finie scientifiquement par la communautÃ© scientifique Mais systÃ¨me qui gÃ©nÃ¨re une force.
+Maitrise de la trajectoire : prÃ©cisino, natur edu dÃ©placemt.
+
+DÃ©finitiondu robot: 
+SystÃ¨me dyamique. polyarticuÃ©r Ã»u pa run actionneur et destiÃ©e a une ganade variÃ tÃde taches. 
+Appareil automatique qui effectue des fonctions qui pourrait etre faits par des humains. 
+Permet de manipuler des objets faire des instruction. Est reprogrammable, polyvalent.
+Machine au service de l'homme, esclave.
+
+Robotique: 
+Ensemble de technique issue de la mÃ©canique issu de l'informatique, automatique, matÃma©tique appliquÃ.
+Elle s'Ã©largie a beaucoup de domaine et notamment pour la mÃ©dicine, psychologie,design, et tout ce qui
+est industriel. 
+
+TRAJECTOIRE
+SECURITE
+CONVENTION SOCIALES
+
+L'objet en lui mÃªme, le mouvement et bien l'intÃ©raction homme/robot.
+Acceptation social des systÃ¨me est nÃ©cessaire pour la notoriÃ©tÃ©  robot.
+
+ESPACE 
+DIMENSION
+
+Le robot va modifier l'espace qu'il habite : le tram va faire de lieu isoler des lieux communs.
+ENTRE LES ESPACES -> les mouvements
+
+...
+
+Georg SIMMEL
+Erving GOFFMAN
+Edouard HALL
+
+...
+
+PRATIQUE SOCIALES
+CULTURE
+
+Ce sont les habitudes culturelles qui nous font prendre une place spatiale.
+Une zone Ã©motionnellement fort et un pÃ©rimÃ¨trde sÃ©curitÃ© individuelle.
+
+La distance de "confort zone" sera diffÃ©rete selon l'image que l'on se fait de l'autre. 
+On se tient plus loin d'une personne atteinte de handicap, ou d'une personne
+inÃamicale et assez froide. A contrario, si elle est chaleureuse et amical, 
+cette distance diminue.
+Le statut (social) de l'intÃ©rlocuteurest aussi un facteur important (un supÃ©rieur hiÃ©rarchique,
+un pair, etc...). "Je me sent proche de cette personne" est une expression qui prend tout son sens
+ici. 
+
+SITUATION DE COOPERATION:
+On se place cote a cote pour exprimer des idees.
+
+SITUATION DE COMPETITION:
+Face a face
+
+SITUATION DE COACTION: 
+
+Distances;
+15   - 45cm:	intime
+45   - 135cm:	personnelle
+120  - 370cm:	sociale
+     > 370cm:	publique
+
+
